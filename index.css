@@ -1,0 +1,970 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.head1{
+    color: white;
+    font-family: cursive;
+margin-left: 10px;
+    font-size: 9px;
+}
+.cv{
+    width: 60px;
+    margin-top: 10px;
+    background-color: red;
+    outline: red;
+margin-left:10px ;
+}
+.vc{
+    width: 20px;
+    height: 1px;
+    margin-top: 1px;
+    background-color: red;
+    outline: red;
+margin-left:10px ;
+}
+.con{
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: 5px;
+    margin-left: 33px;
+    margin-top: -5px;
+}
+.kal{
+    width: 7px;
+    margin-left: 60px;
+    background-color: red;
+    height: 1px;
+    margin-top: -4px;
+}
+.box2{
+    background-color: #000000;
+    width: 80px;
+    margin-left: 10px;
+padding: 2%;
+}
+.ordre{
+    list-style-type: none;
+    background-color: #000000;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+    padding: 1%;
+    font-size: 7px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+li{
+display: inline;
+}
+.box3{
+    margin-left: 110px;
+    margin-top: -15px;
+}
+a:hover{
+    color: red;
+}
+.b{
+    color: red;
+}
+.box4{
+    background-color: #000000;
+    padding: 1%;
+    margin-top: -30px;
+}
+.box5{
+  height: 220px;
+  margin-top: -10px;
+
+    background-color:#000000 ;
+}
+.lop{
+    background-color: red;
+    outline-color: red;
+}
+.pic{
+    width: 100%;
+    height: 120px;
+    position: absolute;
+    margin-top: -150px;
+}
+.click{
+    margin-left: 80%;
+    padding: 1%;
+    width: 80px;
+    height: 20px;
+    background-color: red;
+    color: white;
+    margin-top: -36%;
+    position: absolute;
+    font-size: 6px;
+    cursor: pointer;
+}
+.jo{
+    background-color: red;
+}
+.picture{
+    width: 100%;
+    height: 350px;
+}
+.well{
+    font-family:  monospace;
+    position: absolute;
+    margin-top: -60%;
+margin-left: 25%;
+color: white;
+font-size: 50px;
+}
+.pepre{
+    font-family:sans-serif;
+    font-size: 25px;
+margin-left: 35%;
+color: white;
+margin-top: -49%;
+}
+.re{
+    color: white;
+    margin-left: 38%;
+}
+.our{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 40px;
+    margin-left: 42%;
+    color: white;
+}
+.per{
+    font-size:7px ;
+color: black;
+margin-left: 30%;
+}
+.line{
+    background-color: red;
+    /* margin-top: -20px; */
+    /* padding:10px ; */
+    position: relative;
+    margin-left: 20px;
+    width: 93px;
+}
+.paper{
+    font-size: 17px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.box8{
+    background-color: white;
+    position: relative;
+    margin-left: 65px;
+    width: 135px;
+    text-align: center;
+    height: 75px;
+    margin-top: 30px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.box8:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.box7{
+    background-color: white;
+    width: 80px;
+    height: 170px;
+    text-align: center;
+}
+.vpn{
+    height: 3px;
+    width: 28px;
+    margin-top: 4px;
+    margin-left: 21px;
+    position: relative;
+    background-color: red;
+}
+.come{
+    font-size: 9px;
+    margin-left:15px;
+    margin-top: -8px;
+    color: red;
+}
+.for{
+    height: 3px;
+    width: 10px;
+    margin-top: -7px;
+    position: relative;
+    background-color: red; 
+    margin-left: 100px;
+}
+.box9{
+    background-color: white;
+    width: 135px;
+    height: 75px;
+    position: relative;
+    margin-left:210px;
+margin-top: -170px;
+border-radius: 3px;
+cursor: pointer;
+}
+.bh{
+color: #000000;
+position: absolute;
+margin-left: 20px;
+margin-top: 10px;
+/* text-align: center; */
+font-size: 17px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.inp{
+    width: 90px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    height: 10px;
+    background-color: #ED1C24;
+    outline:none;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+.ex{
+    margin-left: 80px;
+    font-size: 8px;
+    color: white;
+    margin-top: -13px;
+}
+.box9:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.box12{
+    background-color: white;
+    width: 135px;
+    height: 75px;
+    color: #000;
+    border-radius: 3px;
+    position: relative;
+    margin-top: -75px;
+    margin-left: 360px;
+}
+.drop{
+    position: absolute;
+    margin-left: 19px;
+    width: 90px;
+    margin-top: 20px;
+    background-color: #00A550;
+}
+.selt{
+    position: absolute;
+    margin-left: 19px;
+font-size: 17px;
+color: #000000;
+margin-top: 22px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.karna{
+    position: absolute;
+    height: 3px;
+    background-color: #00A550;
+    width: 40px;
+    margin-left: 20px;
+    margin-top: 45px;
+}
+.back{
+    font-size:9px ;
+    margin-left: 65px;
+    color: #00A550;
+    margin-top: 42px;
+position: absolute;
+}
+.four{
+    position: absolute;
+    height: 3px;
+    background-color: #00A550;
+    width: 15px;
+    margin-left: 95px;
+    margin-top: 45px;
+
+}
+.box12:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.man{
+    position: relative;
+    margin-top: 45px;
+    height: 0.3px;
+    background-color: red;
+}
+.box13{
+    background-color: #000;
+width: 100%;
+height: 500%;
+position: absolute;
+}
+.src{
+   margin-left: 40%;
+   margin-top: 20px;
+    background-color: #000000;
+    color: red;
+}
+.ban{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: white;
+    margin-left:35% ;
+    margin-top: 7px;
+}
+.fan{
+    color: red;
+    font-size: 20px;
+    margin-left: 32%;
+}
+.gra{
+    color:white;
+    font-size: 6.5px;
+    margin-left: 27%;
+}
+.panda{
+    width: 150px;
+    height: 110px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.islamabad{
+    color: white;
+    font-size: 10px;
+    margin-top: -70px;
+    margin-left: 49px;
+}
+.polt{
+    color: white;
+    font-size: 6px;
+    margin-top: 8px;
+    margin-left: 40px;
+    /* text-align: center; */
+}
+.location{
+    color: red;
+    position: absolute;
+    font-size: 15px;
+    margin-left: 100px;
+    margin-top: -86px;
+}
+.location:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.sam{
+    width: 150px;
+    height: 110px;
+    margin-top: -78px;
+    margin-left: 190px; 
+}
+.locat{
+    color: red;
+    position: absolute;
+    font-size: 15px;
+    margin-left: 260px;
+    margin-top: -86px;
+}
+.locat:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.fasalabad{
+    color: white;
+    font-size: 10px;
+    margin-top: -67px;
+    margin-left: 210px;
+}
+.fal{
+    color: white;
+    font-size: 6px;
+    margin-top: 8px;
+    margin-left:230px;
+}
+.same{
+    width: 150px;
+    height: 110px;
+    margin-top: -78px;
+    margin-left: 350px;  
+}
+.locet{
+    color: red;
+    position: absolute;
+    font-size: 15px;
+    margin-left: 420px;
+    margin-top: -86px;
+}
+.locet:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.bahava{
+    color: white;
+    font-size: 10px;
+    margin-top: -67px;
+    margin-left: 370px; 
+}
+.city{
+    color: white;
+    font-size: 6px;
+    margin-top: 8px;
+    margin-left:355px;   
+}
+.satal{
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}
+.emment{
+    width: 80px;
+    margin-left: 230px;
+    margin-top: 8px;
+    background-color: white;
+}
+.car{
+    width: 28%;
+    height: 28%;
+    border-radius:3px ;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.locel{
+    color: red;
+    position: absolute;
+    font-size: 15px;
+    margin-left: 100px;
+    margin-top: -105px; 
+}
+.locel:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.sale{
+    color: white;
+    font-size: 10px;
+    margin-top: -85px;
+    margin-left: 60px;
+}
+.dc{
+    color: white;
+    font-size: 6px;
+    margin-top: 8px;
+    margin-left:70px; 
+}
+.extra{
+    width: 28%;
+    height: 28%;
+    border-radius:3px ;
+    margin-top: -88px;
+    margin-left: 195px;
+}
+.lacel{
+    color: red;
+    position: absolute;
+    font-size: 15px;
+    margin-left: 260px;
+    margin-top: -100px;
+}
+.lacel:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.mole{
+    color: white;
+    font-size: 10px;
+    margin-top: -85px;
+    margin-left: 220px;
+}
+.moto{
+    color: white;
+    font-size: 6px;
+    margin-top: 8px;
+    margin-left:240px; 
+}
+.new{
+    width: 28%;
+    height: 28%;
+    border-radius:3px ;
+    margin-top: -88px;
+    margin-left: 350px;
+}
+.cat{
+    color: red;
+    position: absolute;
+    font-size: 15px;
+    margin-left: 420px;
+    margin-top: -100px;
+}
+.cat:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.mall{
+    color: white;
+    font-size: 10px;
+    margin-top: -85px;
+    margin-left: 375px;
+}
+.first{
+    color: white;
+    font-size: 6px;
+    margin-top: 8px;
+    margin-left:380px; 
+}
+.fances{
+    text-align: center;
+    color: red;
+    font-size: 22px;
+}
+.village{
+    width: 100%;
+    height: 89px;
+    margin-top: -20px;
+    position: absolute;
+}
+.cate{
+    color: red;
+    position: absolute;
+    font-size: 15px;
+    /* text-align: center; */
+    margin-left: 260px;
+    margin-top: -10px;
+}
+.lam{
+    color: white;
+    position: relative;
+    font-size: 10px;
+    text-align: center;
+    margin-top: -10px;
+    cursor: pointer;
+}
+.bara{
+    color: white;
+font-size: 8px;
+position: relative;
+text-align: center;
+margin-top: 10px;
+}    
+.panadol{
+color: red;
+font-size:20px ;
+text-align: center;
+}
+.huanin{
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    margin-top: 7px;
+}
+.lim{
+    width: 100px;
+    /* text-align: center; */
+    margin-left: 220px;
+    background-color: white;
+}
+.but{
+    margin-left: 30px;
+    width: 220px;
+    height: 80px;
+    outline: #ED1C24;
+}
+.cute{
+    font-size: 30px;
+    width: 10px;
+    margin-left: 130px;
+    margin-top: -70px;
+    color: red;
+}
+.cute:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.jalil{
+    font-size: 7px;
+    color: #000;
+    margin-left: 65px;
+    margin-top: -20px;
+}
+.garden{
+    margin-left: 280px;
+    margin-top: -55px;
+    position: absolute;
+    width: 220px;
+    height: 80px;
+    outline: #ED1C24;
+}
+.kum{
+    font-size: 30px;
+    width: 10px;
+    position: absolute;
+    margin-left: 380px;
+    margin-top: -40px;
+    color: red;
+}
+.all{
+    font-size: 7px;
+    color: #000;
+    margin-left: 315px;
+    position: absolute;
+    margin-top: -25px;  
+}
+.kum:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.gard{
+    margin-left: 30px;
+    margin-top: -55px;
+    position: absolute;
+    width: 220px;
+    height: 80px;
+    outline: #ED1C24;
+}
+.kumm{
+    font-size: 30px;
+    width: 10px;
+    position: absolute;
+    margin-left: 130px;
+    margin-top: -40px;
+    color: red;
+}
+.den{
+    font-size: 7px;
+    color: #000;
+    margin-left: 90px;
+    position: absolute;
+    margin-top: -25px;  
+}
+.kumm:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.gar{
+    margin-left: 280px;
+    margin-top: -73px;
+    position: absolute;
+    width: 220px;
+    height: 80px;
+    outline: #ED1C24;
+}
+.kummu{
+        font-size: 30px;
+        width: 10px;
+        position: absolute;
+        margin-left: 380px;
+        margin-top: -60px;
+        color: red;
+}
+.press{
+    font-size: 7px;
+    color: #000;
+    margin-left: 345px;
+    position: absolute;
+    margin-top: -45px; 
+}
+.kummu:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.red{
+    background-color: red;
+}
+.html{
+    width: 50px;
+    background-color: red;
+margin-left: 15px;
+}
+.sawm{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 9.5px;
+    margin-left: 15px;
+}
+.araha{
+    margin-left: 15px;
+    width: 10px;
+    margin-top: 3px;
+    background-color: red;
+    height: 2px;
+}
+.set{
+    font-size: 5px;
+    color: red;
+    margin-top: -5px;
+    margin-left: 30px;
+}
+.choti{
+    margin-left: 57px;
+    width: 6px;
+    margin-top: -5px;
+    background-color: red;
+    height: 2px;
+}
+.white{
+    color: white;
+    font-size: 6px;
+margin-left: 15px;
+margin-top: 10px;
+}
+.quink{
+    font-size: 10px;
+    color: white;
+    margin-left: 150px;
+    margin-top: -100px;
+}
+.won{
+    width: 80px;
+    background-color: red;
+    margin-left:150px ;
+margin-top: 5px;
+}
+.para{
+    color: red;
+    margin-top: 5px;
+    margin-left: 150px;
+    font-size: 8px;
+    /* position:relative; */
+}
+.par{
+    color: red;
+    margin-top: 5px;
+    margin-left: 150px;
+    font-size: 8px;
+    position: absolute;
+}
+.pare{
+    color: red;
+    margin-top: 4px;
+    margin-left: 150px;
+    font-size: 8px;
+}
+.parh{
+    color: red;
+    margin-top: 3px;
+    margin-left: 150px;
+    font-size: 8px;
+}
+.parl{
+    color: red;
+    margin-top: 3px;
+    margin-left: 150px;
+    font-size: 8px;
+}
+.home{
+    color: white;
+    font-size: 7px;
+    margin-left: 165px;
+    margin-top: -29px;
+}
+.home:hover{
+    color: red;
+    cursor: pointer;
+}
+.about{
+    color: white;
+    font-size: 7px;
+    margin-left:165px ;
+    margin-top: -13px;
+}
+.about:hover{
+color: red;
+cursor: pointer;
+}
+.publication{
+    color: white;
+    font-size: 7px;
+    margin-left:165px ;
+    margin-top: -27px;
+}
+.publication:hover{
+    color: red;
+    cursor: pointer;
+}
+.get{
+    color: white;
+    font-size: 7px;
+    margin-left:165px ;
+    margin-top: -27px;
+}
+.get:hover{
+    color: red;
+    cursor: pointer;
+}
+.feed{
+    color: white;
+    font-size: 7px;
+    margin-left:165px ;
+    margin-top: -27px;
+}
+.feed:hover{
+    color: red;
+    cursor: pointer;
+}
+.contact{
+    font-size: 10px;
+    color: white;
+    margin-top: -84px;
+    /* position: relative; */
+    margin-left: 290px;
+}
+.us{
+    background-color: red;
+    width: 80px;
+    margin-left:290px ;
+    margin-top: 5px;
+}
+.hello{
+    color: white;
+    font-size: 10px;
+    margin-left: 290px;
+    margin-top: 5px;
+}
+.pa{
+    color: red;
+    font-size: 9px;
+    margin-left: 290px;
+    margin-top: 5px;
+}
+.num{
+    font-size: 7px;
+    margin-left: 305px;
+    margin-top: -30px;
+    color: white;
+}
+.num:hover{
+    color: red;
+    cursor: pointer;
+}
+.pe{
+    color: red;
+    font-size: 9px;
+    margin-left: 290px;
+    margin-top: 5px;
+}
+.ber{
+ font-size: 7px;
+    margin-left: 305px;
+    margin-top: -30px;
+    color: white;
+}
+.ber:hover{
+    color: red;
+    cursor: pointer;
+}
+.ep{
+    color: red;
+    font-size: 9px;
+    margin-left: 290px;
+    margin-top: 5px; 
+}
+.reb{
+    font-size: 7px;
+    margin-left: 305px;
+    margin-top: -30px;
+    color: white; 
+}
+.reb:hover{
+    color: red;
+    cursor: pointer;
+}
+.epi{
+    color: red;
+    font-size: 9px;
+    margin-left: 290px;
+    margin-top: 5px;
+}
+.or{
+    font-size: 7px;
+    margin-left: 305px;
+    margin-top: -30px;
+    color: white; 
+}
+.or:hover{
+    color: red;
+    cursor: pointer;
+}
+.epia{
+    color: red;
+    font-size: 9px;
+    margin-left: 290px;
+    margin-top: 5px;  
+}
+.fud{
+    font-size: 7px;
+    margin-left: 305px;
+    margin-top: -30px;
+    color: white;
+}
+.fud:hover{
+    color: red;
+    cursor: pointer;
+}
+.kauma{
+    color: red;
+    font-size: 9px;
+    margin-left: 290px;
+    margin-top: 5px;
+    margin-top: 10px; 
+}
+.epwi{
+    font-size: 7px;
+    margin-left: 305px;
+    margin-top: -30px;
+    color: white;  
+}
+.epwi:hover{
+    color:red;
+cursor: pointer;
+}
+.fllow{
+    font-size: 10px;
+    color: white;
+    margin-left: 450px;
+    margin-top: -125px;
+}
+.cor{
+    width: 80px;
+    background-color: red;
+    margin-left: 450px;
+    margin-top: 5px;
+}
+.ope{
+    margin-left: 450px;
+    color: red;
+    margin-top: 5px;
+}
+.lin{
+    margin-left: 465px;
+    color: red;
+    margin-top: -31px; 
+}
+.lini{
+    margin-left: 480px;
+    color: red;
+    margin-top: -31px;  
+}
+.lamk{
+    width: 50px;
+    height: 20px;
+    font-size: 5px;
+    background-color: darkgray;
+    color: white;
+    margin-left:450px;
+}
+.you{
+    width: 50px;
+    height: 20px;
+    font-size: 5px;
+    background-color: darkgray;
+    color: white;
+    margin-left:450px;
+}
+.yuo{
+    background-color: red;
+    margin-top: 30px;
+}
+
+
+
+
+
